@@ -8,7 +8,7 @@
 
     <dimen name="notification_padding">0.0dip</dimen>
     <dimen name="notifications_top_padding">0.0dip</dimen>
-    <dimen name="z_distance_between_notifications">0.6dip</dimen>
+    <dimen name="z_distance_between_notifications">1.0dip</dimen>
     <dimen name="notification_side_padding">0.0dip</dimen>
     <dimen name="speed_bump_height">0.0dip</dimen>
 
