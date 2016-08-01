@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quantum_grey900">#ff000000</color>
+    <item type="color" name="quantum_googred500">#ff448aff</item>
+    <item type="color" name="action_bar_background">#fff44336</item>
+    <item type="color" name="quantum_googred700">#ffd32f2f</item>
+</resources>
