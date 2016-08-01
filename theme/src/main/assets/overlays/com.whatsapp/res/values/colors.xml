@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="primary">#ff0f9d58</color>
-  <color name="primary_dark">#ff0d8d4f</color>
-  <color name="accent">#0f9d58</color>
+  <color name="primary">#FF109d59</color>
+  <color name="primary_dark">#FF0c8044</color>
+  <color name="accent">#109d59</color>
 
   <!--Little tweaks for a cleaner look-->
   <color name="divider_gray">#00000000</color>
